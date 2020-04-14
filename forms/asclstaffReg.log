@@ -1,0 +1,4 @@
+Line 610: Class MSComDlg.CommonDialog of control cDlImage was not a loaded control class.
+Line 613: The property name _ExtentX in cDlImage is invalid.
+Line 614: The property name _ExtentY in cDlImage is invalid.
+Line 615: The property name _Version in cDlImage is invalid.
